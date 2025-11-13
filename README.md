@@ -7,7 +7,7 @@ When your apple device got upgraded to new OS, the current XCode version you hav
 
 Download ZIP : [https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases)
 
-Download More : [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
+Download Latest : [https://github.com/doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage)
 
 # Enable Developer Mode
 Go to Settings > Privacy & Security on the iOS device. Scroll down to the Developer Mode list item and navigate into it. To toggle Developer mode, use the “Developer Mode” switch.
